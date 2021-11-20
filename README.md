@@ -1,2 +1,2 @@
 # python-training
- Entrainement python avec plusieurs exercices
+ Entrainement python personnel avec plusieurs exercices
